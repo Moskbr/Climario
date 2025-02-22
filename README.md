@@ -52,4 +52,4 @@ O sistema atualiza as medições e condições de clima dentro do terrário a ca
 
 ### Documentação
 
-Este repositório conta com imagens e vídeos do projeto funcionando, e um relatório, além do código fonte.
+Este repositório conta com imagens e vídeos do projeto funcionando, além do código fonte.
