@@ -2,6 +2,8 @@
 
 Desenvolvimento de um terrário que simula condições climáticas em diferentes modos: Ensolarado, Chuvoso, Tempestuoso, e o modo Local que replica as consições climáticas da sua localização.
 
+![ENSOL](https://github.com/Moskbr/Climario/blob/main/Imagens%20e%20Videos/Modo_Ensolorado.jpeg)
+
 ### Objetivo
 
 Fomentar o interesse de jovens à ingressar na área da tecnologia, além de promover o nome da instituição na comunidade por meio de um projeto de Sistemas Embarcados em exposição na Usina do Conhecimento.
