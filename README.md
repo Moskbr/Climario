@@ -31,7 +31,7 @@ A obtenção dos dados climáticos no modo Local são feitos por meio dos sensor
 
 Cada modo de clima mantém suas respectivas condições climáticas, exceto o modo Local.
 
-O microcontrolador faz a leitura dos sensores periodicamente (a cada 2 minutos), armazenando esses dados para que posteriormente, a cada 20 minutos, faça a média das leituras obtidas e mostra em um servidor HTTP simples, além do modo atual. No servidor pode ser trocado o modo com um delay de 2 segundos para uma nova troca.
+O microcontrolador faz a leitura dos sensores periodicamente (a cada 2 minutos), armazenando esses dados para que posteriormente, a cada 20 minutos, faça a média das leituras obtidas e mostra em um servidor HTTP simples, além do modo atual. No servidor pode ser trocado o modo com um delay de 2 segundos para uma nova troca, e foi adaptado a partir de um projeto já existente do usuário "Enjoy-Mechatronics" disponível no Repositório: [link](https://github.com/Enjoy-Mechatronics/ESP32-DHT-Webserver).
 
 ### Desempenho
 
